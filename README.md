@@ -1,3 +1,16 @@
+---
+title: academic-chatgpt
+emoji: 😻
+colorFrom: blue
+colorTo: blue
+sdk: gradio
+sdk_version: 3.25.0
+python_version: 3.11
+app_file: main.py
+pinned: false
+---
+
+# ChatGPT 学术优化
 > **Note**
 >
 > 安装依赖时，请严格选择requirements.txt中**指定的版本**。 
